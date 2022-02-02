@@ -1,3 +1,9 @@
+# google drive API client
+to run this web application run this command : 
+```php
+composer require google/apiclient:^2.0
+```
+
 # screenshotmachine-php
 
 Captures website screenshot and converts website to PDF using Screenshot machine - online website screenshot generator and website to PDF converter.
